@@ -1,0 +1,41 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/media/navid/9bf0167c-d789-4e06-9e23-4023ec551745/Navid's Staff/roaming/CodeChallenge.Measurement/CodeChallenge.Measurement/CodeChallenge.Measurement.csproj",
+    "projectName": "CodeChallenge.Measurement",
+    "projectPath": "/media/navid/9bf0167c-d789-4e06-9e23-4023ec551745/Navid's Staff/roaming/CodeChallenge.Measurement/CodeChallenge.Measurement/CodeChallenge.Measurement.csproj",
+    "outputPath": "/media/navid/9bf0167c-d789-4e06-9e23-4023ec551745/Navid's Staff/roaming/CodeChallenge.Measurement/CodeChallenge.Measurement/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "http://192.168.18.24:8081/repository/sabacell-nuget/": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

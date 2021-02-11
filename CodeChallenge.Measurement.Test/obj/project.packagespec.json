@@ -1,0 +1,59 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/media/navid/9bf0167c-d789-4e06-9e23-4023ec551745/Navid's Staff/roaming/CodeChallenge.Measurement/CodeChallenge.Measurement.Test/CodeChallenge.Measurement.Test.csproj",
+    "projectName": "CodeChallenge.Measurement.Test",
+    "projectPath": "/media/navid/9bf0167c-d789-4e06-9e23-4023ec551745/Navid's Staff/roaming/CodeChallenge.Measurement/CodeChallenge.Measurement.Test/CodeChallenge.Measurement.Test.csproj",
+    "outputPath": "/media/navid/9bf0167c-d789-4e06-9e23-4023ec551745/Navid's Staff/roaming/CodeChallenge.Measurement/CodeChallenge.Measurement.Test/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "http://192.168.18.24:8081/repository/sabacell-nuget/": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[16.5.0, )"
+        },
+        "coverlet.collector": {
+          "target": "Package",
+          "version": "[1.2.0, )"
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
